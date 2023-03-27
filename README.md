@@ -1,6 +1,12 @@
 <a name="readme-top"></a>
 # Mazcii
 
+<!-- Screenshots -->
+<p align="center">
+![Alt text](/Screenshots/screenshot_1.jpg?raw=true "Menu")
+![Alt text](/Screenshots/screenshot_2.jpg?raw=true "Level")<br><br>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <summary>Table of Contents</summary>
 <ol>
@@ -93,6 +99,6 @@ Distributed under the GNU Affero General Public License v3.0 License. See `Licen
 <!-- CONTACT -->
 ## Contact
 
-project link: [https://github.com/virtreama/Mazcii](https://github.com/virtreama/Mazcii)
+project link: [https://github.com/virtreama/WorkingIsNotEasy](https://github.com/virtreama/WorkingIsNotEasy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
