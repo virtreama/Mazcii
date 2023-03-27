@@ -3,8 +3,8 @@
 
 <!-- Screenshots -->
 <p align="center">
-![Alt text](/Screenshots/screenshot_1.jpg?raw=true "Menu")
-![Alt text](/Screenshots/screenshot_2.jpg?raw=true "Level")<br><br>
+    <img src="/Screenshot/screenshot_1.jpg?raw=true" width="480" height="640" />
+    <img src="/Screenshot/screenshot_2.jpg?raw=true" width="480" height="640" />
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -99,6 +99,6 @@ Distributed under the GNU Affero General Public License v3.0 License. See `Licen
 <!-- CONTACT -->
 ## Contact
 
-project link: [https://github.com/virtreama/WorkingIsNotEasy](https://github.com/virtreama/WorkingIsNotEasy)
+project link: [https://github.com/virtreama/Mazcii](https://github.com/virtreama/Mazcii)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
