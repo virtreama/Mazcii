@@ -3,8 +3,8 @@
 
 <!-- Screenshots -->
 <p align="center">
-    <img src="/Screenshot/screenshot_1.jpg?raw=true" width="480" height="640" />
-    <img src="/Screenshot/screenshot_2.jpg?raw=true" width="480" height="640" />
+    <img src="/Screenshot/screenshot_1.jpg?raw=true" width="240" height="320" />
+    <img src="/Screenshot/screenshot_2.jpg?raw=true" width="240" height="320" />
 </p>
 
 <!-- TABLE OF CONTENTS -->
